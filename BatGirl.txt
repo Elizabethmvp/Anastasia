@@ -1,0 +1,18 @@
+Git/GitHub Workflow
+Step 1: Make + Name A Folder on your computer
+Step 2: Log into GitHub + create new REPO with Readme.md
+Step 3: Initialize local folder with "git init"
+Step 4: Make a text file in local folder
+Step 5: Open Git Bash
+Step 6: CD to local folder in Git Bash
+Step 7: Git Add textfilename.txt
+Step 8: Git config user.name "First Lastname" and user.email "your email"
+Step 9: Git commit -m "commit message"
+Step 10: Git log --oneline
+Step 11: Git status (repeat offten)
+Step 12: Git pull remoteName branchName
+Step 13: Git push -u remoteName branchName
+Step 14: Git fetch remoteName branchName
+Step 15: Git merg remoteName/branchName
+Step 16: Git reset HEAD textfilename.txt
+Step 17: Git remote add remoteName remoteName remoteREPO_URL
